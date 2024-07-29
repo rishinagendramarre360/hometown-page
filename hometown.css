@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+.hero {
+    width: 720px;
+    height: 343px;
+    background-image: url("C:/Users/HP/Downloads/hometown jpegs/images/torshov.jpg");
+    background-size: cover; 
+    
+}
+
+.mid {
+    background: #F1FAEE;
+}
+
+.mid-img {
+    border: 0;
+    border-radius: 50%;
+}
+
