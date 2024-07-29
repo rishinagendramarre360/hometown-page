@@ -1,0 +1,4 @@
+  [[redirects]]
+  from = "/*"
+  to = "/hometown.html"
+  status = 200
